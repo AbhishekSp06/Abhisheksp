@@ -1,18 +1,3 @@
-Want a crazy good website? Let's Discuss!
-
-GPRM
-
-Support us
-
-◄ Go Back
-Your Awesome Profile is ready !
-
-Copy Code
-Download Markdown File
-Create New
-Need help regarding this? Click here to watch Video.
-PREVIEW
-
 💫 About Me:
 
 I’m Abhishek S P, born in Gadag (Karnataka), India, and now living in Banglore.
@@ -59,16 +44,3 @@ Azure AWS Datadog PowerShell Python Bash Script .Net Flask Jenkins Nginx Apache 
 🏆 GitHub Trophies
 
 
-
-
-What to Do Next ? : 
-Copy this Code and Paste it into your GitHub ReadMe file.
-
-
-Hey👋, Can you help us to grow by sharing?
-
-Feedback
-itsvgin@gmail.com
-</> & Crafted with 💛 Vishwa Gaurav
-
-Cloud computing services
